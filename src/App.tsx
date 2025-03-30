@@ -34,7 +34,7 @@ function App() {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
             <div className="flex items-center">
-              <img src="assets/CDK logo.png" alt="CDK Auto Spa" className="h-12" />
+              <img src="/CDK-logo.png" alt="CDK Auto Spa" className="h-12" />
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="text-gray-800 hover:text-primary">Home</a>
@@ -57,7 +57,7 @@ function App() {
             playsInline
             className="w-full h-full object-cover"
           >
-            <source src="assets/cdk_hero_video (720p).mp4" type="video/mp4" />
+            <source src="/cdk_hero_video.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
           <div className="absolute inset-0 bg-black bg-opacity-50"></div>
