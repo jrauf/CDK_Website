@@ -394,7 +394,7 @@ function App() {
           <div className="grid md:grid-cols-3 gap-8">
             <div>
               <div className="flex items-center mb-4">
-                <img src="/logo.webp" alt="CDK Auto Spa" className="h-8" />
+                <img src="/CDK-logo.png" alt="CDK Auto Spa" className="h-8" />
               </div>
               <p className="text-gray-400">Professional auto detailing services that bring out the best in your vehicle.</p>
             </div>
